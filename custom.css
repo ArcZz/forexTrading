@@ -27,3 +27,15 @@ body {
 .price-base {
     background-color: #e4e4e4;
 }
+
+.status {
+    text-align: center
+}
+
+.statusText {
+    background: green;
+    display: inline-block !important;
+    padding: 0 30px;
+    border-radius: 2px;
+    font-weight: 50;
+}

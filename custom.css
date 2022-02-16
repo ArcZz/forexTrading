@@ -14,3 +14,16 @@ body {
     margin-top: 3px;
     background-color: #fff;
 }
+
+.currency-mark {
+    float: right !important;
+    color: green;
+}
+
+.panelRight {
+    border-left: 2px #e4e4e4 solid;
+}
+
+.price-base {
+    background-color: #e4e4e4;
+}
